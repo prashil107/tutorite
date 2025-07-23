@@ -1,0 +1,5 @@
+src/app/courses/[id]/page.tsx
+src/app/courses/page.tsx
+src/app/teachers/[id]/page.tsx
+src/app/teachers/page.tsx
+src/components/auth/AuthForm.tsx 

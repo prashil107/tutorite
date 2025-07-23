@@ -1,0 +1,25 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Database files (if using SQLite)
+db.sqlite3
+
+# Media and static files generated during development
+media/
+static/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+

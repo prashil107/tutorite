@@ -1,0 +1,23 @@
+# Core Django and DRF
+Django==5.2
+djangorestframework==3.16.0
+djangorestframework_simplejwt==5.5.0
+
+# Database
+psycopg2-binary==2.9.10
+dj-database-url==2.3.0
+sqlparse==0.5.3 # Django dependency
+
+# Production WSGI Server
+gunicorn==23.0.0
+
+# Asynchronous support (Channels)
+channels==4.2.2
+daphne==4.1.2
+channels_redis==4.2.1
+redis==6.0.0 # Dependency for channels_redis
+asgiref==3.8.1 # Django/Channels dependency
+
+# Common DRF extensions/middlewares
+django-cors-headers==4.7.0
+django-filter==25.1
