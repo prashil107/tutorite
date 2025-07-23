@@ -1,6 +1,6 @@
 Tutorite
 Overview
-Tutorite is a project hosted at https://github.com/prashil107/tutorite aiming to serve as a Tutoring Hub. Its main objective is to create an online platform that connects tutors and students, streamlining educational assistance and tutoring services.
+Tutorite is a project hosted at https://tutoringhub-eight.vercel.app/ aiming to serve as a Tutoring Hub. Its main objective is to create an online platform that connects tutors and students, streamlining educational assistance and tutoring services.
 
 Features
 Modern Tech Stack:
